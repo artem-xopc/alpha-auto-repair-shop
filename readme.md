@@ -1,4 +1,9 @@
-<h1>OptimizedHTML 5</h1>
+# Проект: небольшой слайдер-лендинг для выдуманной автомастерской "Альфа".
+
+### Проект был создан для того, чтобы освоить посадку лендинга на cms систему и пополнения портфолио в сфере дизайна и вёрстки.
+### Готовый проект можно будет опробовать по следующей ссылке: 
+
+<!-- <h1>OptimizedHTML 5</h1>
 <p>Lightweight production-ready Gulp starter.</p>
 
 <p>
@@ -149,4 +154,4 @@ AddOutputFilterByType DEFLATE text/html text/plain text/xml application/xml appl
 
 <ol>
 	<li>Long Preprocessor compile: Disable the "safe write" option in PHPStorm/WebStorm settings.</li>
-</ol>
+</ol> -->
